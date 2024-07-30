@@ -1,0 +1,89 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  /* Dashboard styles */
+  .dashboard {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  /* LoginSignup styles */
+  .login-signup {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .login-signup form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .login-signup label {
+    margin: 10px 0 5px;
+  }
+  
+  .login-signup input {
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .login-signup button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 4px;
+    background-color: #5cb85c;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .login-signup button:hover {
+    background-color: #4cae4c;
+  }
+  
+  /* PlayerDetails styles */
+  .player-details {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  /* PlayerProfile styles */
+  .player-profile {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
